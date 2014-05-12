@@ -1,0 +1,3 @@
+[submodule "app/styles/base-css"]
+	path = app/styles/base-css
+	url = https://github.com/vinodkl/base-css.git
